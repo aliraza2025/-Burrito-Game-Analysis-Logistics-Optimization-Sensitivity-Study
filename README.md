@@ -1,5 +1,9 @@
 # 🌯 Burrito Game Analysis — Logistics Optimization
 
+[Portfolio and case studies](https://alirazaportfolio2026.netlify.app/)
+
+Academic optimization project by Ali Raza. Profit and coverage figures below are outputs of the modeled scenarios, rather than observed business revenue.
+
 **Integer Programming & Sensitivity Analysis project focused on profit-maximizing food truck operations under real-world constraints.**
 
 This project models a multi-day logistics optimization problem where burritos are distributed from mobile trucks to demand locations. Using mathematical optimization, we determine optimal truck deployment, delivery quantities, and pricing strategies to maximize profit while respecting demand and distance-based constraints.
